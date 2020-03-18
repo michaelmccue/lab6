@@ -17,7 +17,7 @@ public class NumericConversion {
         return count;
    }
                  // this is the hex digit as a decimal value //
-    // did it work?? //
+    // did it work?? // // comment for lab 6 //
         public static short hexCharDecode(char digit) {
     short count = 0;
         if (digit == '0')
